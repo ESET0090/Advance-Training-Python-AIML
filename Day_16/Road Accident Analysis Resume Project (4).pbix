@@ -1,0 +1,4 @@
+## Creating a Dashboard
+Analyzed accident data revealing insights into accident trends across vehicle types, road and light conditions. Designed an interface with dynamic charts and filters for
+data exploration by year, location and accident type. Conducted detailed SQL checks on categories like CY Casualties, CY Accidents and CY Fatal Casualties. Visualized 
+accident data to highlight higher casualties on urban roads (118K) compared to rural areas (43K)
