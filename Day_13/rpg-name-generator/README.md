@@ -1,0 +1,1 @@
+This is a sample project for demonstrating how to use GitHub Actions with Docker builds.
