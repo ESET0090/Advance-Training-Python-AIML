@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: custom-pods
+spec:
+  containers:
+    - name: helloworld-container
+      image: uday2ml/my-image:main
