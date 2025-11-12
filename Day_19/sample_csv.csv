@@ -1,0 +1,11 @@
+customer_id,customer_name,email,age,city,purchase_amount,purchase_date,product_category
+101,john smith,john.smith@email.com,25,new york,120.5,2024-01-15,Electronics
+102,emma wilson,emma.wilson@email.com,32,london,75.25,2024-01-16,Clothing
+103,mike johnson,mike.johnson@email.com,45,tokyo,300.75,2024-01-16,Electronics
+104,sarah brown,sarah.brown@email.com,28,paris,45.99,2024-01-17,Books
+105,david miller,david.miller@email.com,55,sydney,500.0,2024-01-18,Home
+106,lisa anderson,lisa.anderson@email.com,31,berlin,89.99,2024-01-19,Clothing
+107,kevin davis,kevin.davis@email.com,42,mumbai,150.25,2024-01-20,Electronics
+108,amanda white,amanda.white@email.com,29,dubai,200.5,2024-01-21,Books
+109,chris martin,chris.martin@email.com,38,toronto,75.3,2024-01-22,Clothing
+110,jennifer lee,jennifer.lee@email.com,27,singapore,350.75,2024-01-23,Electronics

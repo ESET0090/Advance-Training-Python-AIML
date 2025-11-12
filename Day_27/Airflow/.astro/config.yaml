@@ -1,0 +1,6 @@
+postgres:
+    port: "8888"
+project:
+    name: apache-airflow-3
+webserver:
+    port: "8000"
